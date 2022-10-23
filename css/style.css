@@ -53,8 +53,8 @@ header ul li a {
 }
 
 header ul li a:hover {
-    background-color: #37E6F7;
-    color: #fff;
+    background-color: #fff;
+    color: #37E6F7;
 }
 
 .active {
@@ -64,7 +64,7 @@ header ul li a:hover {
 
 .banner {
     height: 80vh;
-    border: #fff;
+    border: #37E6F7;
     background-image: url(../img/banner.jpg);
     background-size: cover;
     position: relative;
@@ -81,14 +81,13 @@ header ul li a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(55, 230, 247, .6);
 }
 
 .banner h2 {
-    color: #fff;
+    color: #37E6F7;
     z-index: 1;
     padding: 20px 25px;
-    border: 3px solid #fff;
+    border: 3px solid #37E6F7;
 }
 
 section {
